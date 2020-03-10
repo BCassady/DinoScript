@@ -1,0 +1,1 @@
+A script to play the Chrome Dino Game. This only works on a 1920x1080 screen and works best in light mode. Run the python program then switch to your dino tab. The program does use functions on your keyboard and mouse, to quit these move the cursor to any of the four corners of the screen.
